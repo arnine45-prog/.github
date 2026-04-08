@@ -1,1 +1,1 @@
-# .github
+https://adobe.com
